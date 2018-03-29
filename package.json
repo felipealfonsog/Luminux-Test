@@ -1,0 +1,19 @@
+{
+    "name": "mini app",
+    "version": "1.0.0",
+    "description": "testing out",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "author": "felipe@nodeio.us",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.13.4"
+    },
+    "devDependencies": {
+        "eslint": "^4.19.1",
+        "eslint-plugin-react": "^7.7.0"
+    }
+}
