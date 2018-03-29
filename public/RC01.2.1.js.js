@@ -1,9 +1,4 @@
 
-
-
-
-
-
 const paresQueSumanX = (array, x) => {
     for (i = 0; i < array.length; i++) {
       for (j = 0; j < array.length; j++) {
