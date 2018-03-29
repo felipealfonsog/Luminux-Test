@@ -33,4 +33,3 @@ const algo = (A, X) => {
   
   algo(A, X); // it'll return [ 2, 120, 4, 70, 6, 10 ] 
   
-  
